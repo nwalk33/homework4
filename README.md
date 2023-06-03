@@ -1,12 +1,12 @@
 ## Timed Quiz
 
 # Table of Contents 
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[Credits](#credits)
-[Links](#links)
-[Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Links](#links)
+- [Questions](#questions)
 
 # Description <a name="description"></a>
 This application is a timed quiz game on JavaScript fundamentals that allows users to store their high scores. It was created with HTML, CSS, JavaScript.
@@ -21,7 +21,7 @@ When the user clicks the "Start" button, a timer starts counting down and the us
 Huge thanks to UCLA Coding Bootcamp Staff and discord group!
 
 # Links <a name="links"></a>
-GitHub Repository: [https://github.com/nwalk33/quiz]
+GitHub Repository: https://nwalk33.github.io/quiz/
 
 # Questions <a name="questions"></a>
 You are welcome to contact me at nwalk33@yahoo.com for any questions or concerns.
