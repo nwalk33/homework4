@@ -8,6 +8,9 @@
 - [Links](#links)
 - [Questions](#questions)
 
+![Screenshot 2023-06-02 171028](https://github.com/nwalk33/quiz/assets/124389890/c10a05b5-5932-4cdc-b4f9-d304350211e2)
+![Screenshot 2023-06-02 171145](https://github.com/nwalk33/quiz/assets/124389890/dba3a7b9-2ae7-4659-8903-bac38cb85ea0)
+
 # Description <a name="description"></a>
 This application is a timed quiz game on JavaScript fundamentals that allows users to store their high scores. It was created with HTML, CSS, JavaScript.
 
